@@ -109,19 +109,21 @@ This project was built using a highly modern, full-stack ecosystem:
 
 ## 📸 Screenshots
 
-*(Replace the placeholder image URLs below with your actual screenshots before submitting)*
+### 1. Home Page / Hero Section
+![Home Page](./public/screenshots/homepage.png)
+*A beautiful landing page with glassmorphism design and the core features.*
 
-### 1. AI Chat Consultation Interface
-![Chat Interface](https://via.placeholder.com/800x450.png?text=AI+Chat+Interface+Screenshot)
-*The AI providing a safe, natural remedy for a user's symptoms.*
+### 2. Plant Encyclopedia (Plant DB)
+![Encyclopedia](./public/screenshots/encyclopedia.png)
+*The searchable database showing a grid of medicinal plants and trees.*
 
-### 2. Plant Vision Analyzer
-![Vision Analyzer](https://via.placeholder.com/800x450.png?text=Plant+Image+Analyzer+Screenshot)
-*The laser-scanning UI identifying a medicinal plant and showing precautions.*
+### 3. Natural Remedies Database
+![Remedies](./public/screenshots/remedies.png)
+*A curated list of evidence-based natural remedies for common ailments.*
 
-### 3. Plant Encyclopedia & Dark Mode
-![Encyclopedia](https://via.placeholder.com/800x450.png?text=Plant+Encyclopedia+Dark+Mode)
-*The searchable database in dark mode, showing glassmorphism UI elements.*
+### 4. AI Plant Vision Analyzer
+![Vision Analyzer](./public/screenshots/plant_analyzer.png)
+*The AI Plant Analyzer interface for scanning and identifying medicinal plants.*
 
 ---
 
