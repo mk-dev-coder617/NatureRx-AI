@@ -110,20 +110,20 @@ This project was built using a highly modern, full-stack ecosystem:
 ## 📸 Screenshots
 
 ### 1. Home Page / Hero Section
-![Home Page](./public/screenshots/homepage.png)
+![Home Page](./public/screenshots/hero_section.jpg)
 *A beautiful landing page with glassmorphism design and the core features.*
 
-### 2. Plant Encyclopedia (Plant DB)
-![Encyclopedia](./public/screenshots/encyclopedia.png)
-*The searchable database showing a grid of medicinal plants and trees.*
+### 2. AI Chat Consultation Interface
+![Chat Interface](./public/screenshots/chat_interface.jpg)
+*The AI providing safe, natural remedies based on a user's health concerns.*
 
 ### 3. Natural Remedies Database
-![Remedies](./public/screenshots/remedies.png)
+![Remedies](./public/screenshots/remedies.jpg)
 *A curated list of evidence-based natural remedies for common ailments.*
 
-### 4. AI Plant Vision Analyzer
-![Vision Analyzer](./public/screenshots/plant_analyzer.png)
-*The AI Plant Analyzer interface for scanning and identifying medicinal plants.*
+### 4. Plant Encyclopedia (Plant DB)
+![Encyclopedia](./public/screenshots/plant_db.jpg)
+*The searchable database showing a grid of medicinal plants and trees.*
 
 ---
 
